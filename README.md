@@ -34,7 +34,7 @@ I build web products end to end, from the Figma file to the deployed app.
 
 | When | Role |
 |---|---|
-| 2025 – now | **Founder**, myspeak.team |
+| 2026 – now | **Founder**, myspeak.team |
 | 2023 | **Full-stack intern (remote)**, JOINUS KOREA · Django |
 | 2021 – 2022 | **Frontend Dev & UI/UX Designer**, Foreach.Soft · intern → promoted to full-time · Vue.js, Figma |
 
