@@ -19,11 +19,11 @@ I build web products end to end, from the Figma file to the deployed app.
     </td>
     <td width="50%" valign="top">
       <a href="https://oaziz.cc">
-        <img src="./assets/oaziz.png" alt="oaziz.cc v2" width="100%">
+        <img src="https://ipwokmwbmpuksbuovbcx.supabase.co/storage/v1/object/public/portfolio-images/works/1794904548107-4db21280-4049-4c90-a37f-2b0681fde890.png" alt="oaziz.cc v2" width="100%">
       </a>
       <h4><a href="https://oaziz.cc">oaziz.cc v2 ↗</a></h4>
       Full UI/UX redesign of my portfolio, from research to build.
-      <a href="https://www.behance.net/YOUR-HANDLE">Behance case study</a>
+      <a href="https://www.behance.net/gallery/248661523/oazizcc-v2-Personal-Portfolio-UIUX">Behance case study</a>
       <br><br>
       <sub><code>Figma</code> <code>React</code></sub>
     </td>
