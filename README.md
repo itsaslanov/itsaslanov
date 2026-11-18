@@ -19,7 +19,7 @@ I build web products end to end, from the Figma file to the deployed app.
     </td>
     <td width="50%" valign="top">
       <a href="https://oaziz.cc">
-        <img src="https://ipwokmwbmpuksbuovbcx.supabase.co/storage/v1/object/public/portfolio-images/works/1794904548107-4db21280-4049-4c90-a37f-2b0681fde890.png" alt="oaziz.cc v2" width="100%">
+        <img src="https://media.licdn.com/dms/image/v2/D562DAQGfuaPNiyrPdw/profile-treasury-image-shrink_480_480/B56aHqf4XBKMAU-/0/1794935588734?e=1795590000&v=beta&t=1nhYviU5HOoio5EGRgiB0_F-fI5SmQIUhnxOyq0R64U" alt="oaziz.cc v2" width="100%">
       </a>
       <h4><a href="https://oaziz.cc">oaziz.cc v2 ↗</a></h4>
       Full UI/UX redesign of my portfolio, from research to build.
