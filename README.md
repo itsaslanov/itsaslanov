@@ -10,7 +10,7 @@ I build web products end to end, from the Figma file to the deployed app.
   <tr>
     <td width="50%" valign="top">
       <a href="https://myspeak.team">
-        <img src="./assets/myspeak.png" alt="myspeak.team voice room" width="100%">
+        <img src="https://media.licdn.com/dms/image/v2/D562DAQFu3gX4Vca1KQ/profile-treasury-image-shrink_480_480/B56aHqd4PRJoAY-/0/1794935063878?e=1795590000&v=beta&t=XTUPQ8NaaLzItEnFs8kxWhAqUqRTHGN0S0IH5_x28wM" alt="myspeak.team voice room" width="100%">
       </a>
       <h4><a href="https://myspeak.team">myspeak.team ↗</a></h4>
       Real-time browser voice rooms for gamers. Designed, built and deployed solo.
